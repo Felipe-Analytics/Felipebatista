@@ -76,9 +76,4 @@ Felipe Batista de Souza</a>
 
 ---
 
-<!-- ---------------------------------------------------------------------- -->
 
-<!-- MODELO DE LICENÇA -->
-## 📝 Licença
-
-Feito por Felipe Batista de Souza👋🏽 [Entre em contato!]([https://br.linkedin.com/in/matheus-maia-alvarez-](https://www.linkedin.com/in/fel1p3bat1sta?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1TOblaU6SFSV10oqBhAmnA%3D%3D))
