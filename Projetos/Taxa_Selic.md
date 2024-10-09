@@ -49,25 +49,6 @@ O desafio proposto para este projeto foi a criação e elaboração dos dados de
 
 <!-- ---------------------------------------------------------------------- -->
 
-<!-- EXEMPLO DE LAYOUT: -->
-## 🎨 Layout
-
-### Widget
-
-<!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile01.png)<br>
-![Mobile2](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile02.png)<br>
-![Mobile3](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile03.png)
-
-### Widget em uma página externa
-
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk01.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk02.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)
-
----
-
-<!-- ---------------------------------------------------------------------- -->
 
 
 <!-- MODELO DE TECNOLOGIAS -->
@@ -75,29 +56,12 @@ O desafio proposto para este projeto foi a criação e elaboração dos dados de
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-End**  ([ReactJS](https://reactjs.org/)) 
+#### **Editor de codigo Fonte** ([VsCode](https://code.visualstudio.com/))
+##### **Bibliotecas**
+-   **Pandas**
+-   **Matplotlib**
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[Styled-Component](https://styled-components.com/docs)**
 
-#### **Prototipação** ([Figma](https://www.figma.com/))
-
-- **[Minha Prototipação](https://www.figma.com/file/J1zv4Q8hCFhxhuZE5XINxu/Prototipa%C3%A7%C3%A3o-desafio-Digitalk?t=9EYQVYnf9XIZWWZr-1)**
-
----
-
-<!-- ---------------------------------------------------------------------- -->
-
-<!-- MODELO DE COMO CONTRIBUIR PARA O PROJETO -->
-## 💪 Como contribuir para o projeto
-
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
-
----
 
 <!-- ---------------------------------------------------------------------- -->
 
@@ -108,7 +72,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Felipe Batista de Souza</a>
  <br />
  
-[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-batista.felipe343@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batista.felipe343@gmail.com)](mailto:batista.felipe343@gmail.com)
 
 ---
 
@@ -117,6 +81,4 @@ Felipe Batista de Souza</a>
 <!-- MODELO DE LICENÇA -->
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!]([https://br.linkedin.com/in/matheus-maia-alvarez-](https://www.linkedin.com/in/fel1p3bat1sta?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1TOblaU6SFSV10oqBhAmnA%3D%3D))
