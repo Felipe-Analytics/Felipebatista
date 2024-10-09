@@ -1,5 +1,5 @@
-### Olá pessoal 
-## Estou iniciando minha jornada em Análise de Dados, buscando aprender e aplicar habilidades em áreas como manipulação de dados, visualização. Atualmente, estou desenvolvendo projetos pessoais para consolidar meus conhecimentos e explorar novas ferramentas e tecnologias.
+## Olá pessoal 
+### Estou iniciando minha jornada em Análise de Dados, buscando aprender e aplicar habilidades em áreas como manipulação de dados, visualização. Atualmente, estou desenvolvendo projetos pessoais para consolidar meus conhecimentos e explorar novas ferramentas e tecnologias.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
