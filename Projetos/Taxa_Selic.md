@@ -1,13 +1,8 @@
-p!-- 
-	FIZ UM VÍDEO NO MEU CANAL (), 
- 	MOSTRANDO PASSO-A-PASSO DE COMO
-  	UTILIZAR ESSA DESCRIÇÃO
- 
--->
+
 
 <!-- MODELO PROJETO EM ANDAMENTO -->
 <h1 align="center"> 
-	🚧 {Análise da Evolução da Taxa Selic no Brasil} - Em contrução 🚧
+	🚧 Análise da Evolução da Taxa Selic no Brasil - Em contrução 🚧
 </h1>
 
 
