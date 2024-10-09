@@ -14,7 +14,7 @@ p!--
 <!-- MODELO MENU DE NAVEGAÇÃO -->
 <p align="center">
  <a href="#-Objetivo-do-projeto">Objetivo do projeto</a> •
- <a href="#-Dashboard"> Dashboard</a> • 
+ <a href="#-Dashboard">Dashboard</a> • 
  <a href="#-Fonte-dos-dados">Fonte dos dados</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
